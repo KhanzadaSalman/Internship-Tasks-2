@@ -1,10 +1,10 @@
-# ❤️ Heart Disease Prediction (Task 3)
+# ❤️ Heart Disease Prediction (Task 2)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Library](https://img.shields.io/badge/Library-Scikit--Learn-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-green)
 
-This repository contains the source code for **Task 3: Heart Disease Prediction**, completed as part of the AI/ML Engineering Internship.
+This repository contains the source code for **Task 2: Heart Disease Prediction**, completed as part of the AI/ML Engineering Internship.
 
 ## 📌 Objective
 To build a machine learning model that predicts whether a patient is at risk of heart disease based on clinical features like age, cholesterol, and blood pressure.
